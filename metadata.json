@@ -1,0 +1,8 @@
+{
+  "name": "Remix Restaurant SaaS Dashboard Platform",
+  "description": "Multi-role SaaS Dashboard application with Restaurant Owner and Platform Administrator portals, claims management, photo gallery, analytics, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
